@@ -10,12 +10,12 @@ function App() {
         <div class="fade"></div>
         <section class="star-wars">
           <div class="crawl">
-            <div class="title">
+            {/* <div class="title">
               <p>Episode IV</p>
               <h1>A New Hope</h1>
-            </div>
+            </div> */}
 
-            <p>
+            {/* <p>
               It is a period of civil war. Rebel spaceships, striking from a
               hidden base, have won their first victory against the evil
               Galactic Empire.
@@ -31,7 +31,7 @@ function App() {
               Pursued by the Empire’s sinister agents, Princess Leia races home
               aboard her starship, custodian of the stolen plans that can save
               her people and restore freedom to the galaxy….
-            </p>
+            </p> */}
           </div>
         </section>
       </div>
